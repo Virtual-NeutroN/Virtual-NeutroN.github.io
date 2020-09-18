@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Virtual_NeutroN的个人博客</title>
+  
+  <subtitle>It seems like life is too short to hold grudges.</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-09-18T14:09:47.225Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Virtual_NeutroN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博文以及一些要说的话</title>
+    <link href="http://example.com/2020/09/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D/"/>
+    <id>http://example.com/2020/09/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D/</id>
+    <published>2020-09-18T10:21:55.000Z</published>
+    <updated>2020-09-18T14:09:47.225Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="为什么我想开设博客？"><a href="#为什么我想开设博客？" class="headerlink" title="为什么我想开设博客？"></a>为什么我想开设博客？</h1><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;额，说实话，其实也没有想不想开设这一个决定的，但是为了满足一些在游戏/生活上的记录，我才选择开设自己的一个博客。那么！既然都建立了自己的博客，那就说说我是如何尝试的吧。</p><h3 id="其实也是走了很多的歧路，毕竟什么东西都不是完美的嘛"><a href="#其实也是走了很多的歧路，毕竟什么东西都不是完美的嘛" class="headerlink" title="其实也是走了很多的歧路，毕竟什么东西都不是完美的嘛"></a><del>其实也是走了很多的歧路，毕竟什么东西都不是完美的嘛</del></h3><hr><h2 id="第一部分·发现"><a href="#第一部分·发现" class="headerlink" title="第一部分·发现"></a>第一部分·发现</h2><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><ul><li>我以前就有尝试写过网站（其实就是html），但是一直觉得不完美，因为我想记录更多的内容，而不是像那些“网站模板”一样，在华丽的css和js中体现出浓浓的企业味（主要是我喜欢比较偏向于为个人制作的html模板）。<h3 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h3></li><li>在漫漫寻找的过程中，我发现在我查找js代码的那些网页页面很符合我的口味，这也是我第一次接触到博客这种东西，也是到现在我写这篇文章的从零到有。</li></ul><hr><h2 id="第二部分·实践"><a href="#第二部分·实践" class="headerlink" title="第二部分·实践"></a>第二部分·实践</h2><h3 id="尝试"><a href="#尝试" class="headerlink" title="尝试"></a>尝试</h3><ul><li>当我得知博客的概念时，便去网上查找一切可以用尽的资料，这里感谢那些帮助了我的大佬们，你们帮助了在最需要帮助之时的我！但是可惜的是，我不能一一写出，甚至是不记得这些资料是在哪位大佬的博客上看见的，这里表示道歉。</li><li>实际上，从我开始决心制作博客时，前后经历了无数的坑，在四天内成功建起了一个崭新的里程碑。这四天里，我也不知道是辛苦，还是快乐，还是激动，但是我知道，我成功了，突破了自我，超越了自我！<h3 id="创新"><a href="#创新" class="headerlink" title="创新"></a>创新</h3></li><li>我现在使用的博客依靠于hexo插件下，为什么我会选择hexo？其实也没什么讲究，毕竟wordpress这些也是很NB的，但是我想了想，既然都到这了，那就解释下为什么会用hexo吧。</li><li>1，感觉模板会更多，自定义方便</li><li>2，网络上的教程比较多，适合我学习</li><li>其实要这么说，就两个，当然对于我来说这也是非常重要的，所以我会着重考虑。</li><li>当我修改好模板的“config.yml”中的theme时，一种激动的心情促使着我立马想hexo g并hexo s——可是，当我摁下回车时，还是……出错了，经过多次的排查和测试，证实开始使用的theme出现了致命bug，无法运行，无奈之下，我只好从新找到一个更好的模板，顺藤摸瓜，便找到了这个模板：butterfly。<h3 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h3></li><li>我是一个0基础的hexo新手，以前面对着的，是无数的”div”和文字，当我看到扩展名为.yml时，我不知道从何下手。</li><li>但是作者给了一套非常详细的修改教程，无论是在文档还是在他（她）的网站里，都能轻松的读懂每一个参数所更改的元素。</li><li>接下来当然是去修改里面的参数/配置啦，跟着教程，从零开始，<del>白手起家</del>，一点一点的去挖掘每一行代码对应的元素，从开始的title，到现在的学习markdown（一会会讲到），知识也是一点一点的增加（<del>奇怪的知识增加了！</del>）。</li><li>当我搞定主界面时，接下来就是开始写这篇文章，但是它和我用的写文章的语言不同（我就是html+css乱拼乱凑，但是还有点好看），然而Markdown的语言写文章是如此的顺手：标题一个#，副标题两个#，每一点就一个-，这种语言不过五分钟基本上是全能学会（当然只是写文的基础，深入还没有学习）。</li></ul><hr><h2 id="第三部分·尾声"><a href="#第三部分·尾声" class="headerlink" title="第三部分·尾声"></a>第三部分·尾声</h2><h3 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h3><ul><li>我很高兴能够在自己的博客上写自己的东西，以后我将在这里发展一些生活与游戏的笔记，如果可以有时间的话，大约是两周一更，时间充裕可能还会一周一更。</li><li>总之，感谢大家，不管是过去，现在还是将来给我鼓励的人，我不会辜负你（您）们的期望的！</li></ul><hr><h2 id="引用列表"><a href="#引用列表" class="headerlink" title="引用列表"></a>引用列表</h2><ul><li>没有引用，以后有引用的文章会显示</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;为什么我想开设博客？&quot;&gt;&lt;a href=&quot;#为什么我想开设博客？&quot; class=&quot;headerlink&quot; title=&quot;为什么我想开设博客？&quot;&gt;&lt;/a&gt;为什么我想开设博客？&lt;/h1&gt;&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    <category term="其他" scheme="http://example.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+  </entry>
+  
+</feed>
