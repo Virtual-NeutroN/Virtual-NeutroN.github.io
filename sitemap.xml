@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/09/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D/</loc>
+    <loc>http://virtual-neutron.top/2020/09/19/%E8%AF%AD%E6%96%87-%E5%B2%B3%E9%98%B3%E6%A5%BC%E8%AE%B0%E4%B8%93%E9%A2%98%E9%87%8D%E7%82%B9%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2020-09-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://virtual-neutron.top/2020/09/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E8%A6%81%E8%AF%B4%E7%9A%84%E8%AF%9D/</loc>
+    
+    <lastmod>2020-09-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://virtual-neutron.top/categories/index.html</loc>
     
     <lastmod>2020-09-18</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2020-09-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://virtual-neutron.top/tags/index.html</loc>
     
     <lastmod>2020-09-18</lastmod>
     
@@ -24,7 +31,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://virtual-neutron.top/</loc>
     <lastmod>2020-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -34,7 +41,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://virtual-neutron.top/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2020-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://virtual-neutron.top/categories/%E8%AF%AD%E6%96%87/</loc>
     <lastmod>2020-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
